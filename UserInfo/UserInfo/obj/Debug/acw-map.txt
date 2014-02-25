@@ -1,0 +1,1 @@
+UserInfo.Activity1;userinfo.Activity1

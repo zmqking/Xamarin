@@ -1,0 +1,13 @@
+D:\C#\Practice\Xamarin\UserInfo\UserInfo\bin\Debug\UserInfo.dll
+D:\C#\Practice\Xamarin\UserInfo\UserInfo\bin\Debug\UserInfo.pdb
+D:\C#\Practice\Xamarin\UserInfo\UserInfo\bin\Debug\UserInfo.dll.mdb
+D:\C#\Practice\Xamarin\UserInfo\UserInfo\bin\Debug\UserInfo.UserInfo.apk
+D:\C#\Practice\Xamarin\UserInfo\UserInfo\bin\Debug\UserInfo.UserInfo-Signed.apk
+D:\C#\Practice\Xamarin\UserInfo\UserInfo\obj\Debug\UserInfo.dll
+D:\C#\Practice\Xamarin\UserInfo\UserInfo\obj\Debug\UserInfo.pdb
+D:\C#\Practice\Xamarin\UserInfo\UserInfo\obj\Debug\android\bin\UserInfo.UserInfo.apk
+D:\C#\Practice\Xamarin\UserInfo\UserInfo\obj\Debug\res\layout\main.xml
+D:\C#\Practice\Xamarin\UserInfo\UserInfo\obj\Debug\res\values\strings.xml
+D:\C#\Practice\Xamarin\UserInfo\UserInfo\obj\Debug\res\drawable\icon.png
+D:\C#\Practice\Xamarin\UserInfo\UserInfo\obj\Debug\R.cs.flag
+D:\C#\Practice\Xamarin\UserInfo\UserInfo\obj\Debug\uploadflags.txt

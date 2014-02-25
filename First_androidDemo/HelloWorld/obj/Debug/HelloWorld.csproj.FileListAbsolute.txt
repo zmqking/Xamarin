@@ -1,0 +1,13 @@
+D:\C#\Practice\Xamarin\First_androidDemo\HelloWorld\bin\Debug\HelloWorld.dll
+D:\C#\Practice\Xamarin\First_androidDemo\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\C#\Practice\Xamarin\First_androidDemo\HelloWorld\bin\Debug\HelloWorld.dll.mdb
+D:\C#\Practice\Xamarin\First_androidDemo\HelloWorld\bin\Debug\HelloWorld.HelloWorld.apk
+D:\C#\Practice\Xamarin\First_androidDemo\HelloWorld\bin\Debug\HelloWorld.HelloWorld-Signed.apk
+D:\C#\Practice\Xamarin\First_androidDemo\HelloWorld\obj\Debug\HelloWorld.dll
+D:\C#\Practice\Xamarin\First_androidDemo\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\C#\Practice\Xamarin\First_androidDemo\HelloWorld\obj\Debug\android\bin\HelloWorld.HelloWorld.apk
+D:\C#\Practice\Xamarin\First_androidDemo\HelloWorld\obj\Debug\res\layout\main.xml
+D:\C#\Practice\Xamarin\First_androidDemo\HelloWorld\obj\Debug\res\values\strings.xml
+D:\C#\Practice\Xamarin\First_androidDemo\HelloWorld\obj\Debug\res\drawable\icon.png
+D:\C#\Practice\Xamarin\First_androidDemo\HelloWorld\obj\Debug\R.cs.flag
+D:\C#\Practice\Xamarin\First_androidDemo\HelloWorld\obj\Debug\uploadflags.txt
